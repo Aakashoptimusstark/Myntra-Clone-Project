@@ -23,10 +23,10 @@ To practice responsive UI design by recreating a real-world website using only H
 ## 📸 Preview
 
 ### Header view
-![Myntra Clone Header& Main Screenshot](./images/screenshot.png, )
+![Myntra Clone Header& Main Screenshot](./images/screenshot.png )
 
 ### 📱 Footer View 
-![Myntra Clone footer Screenshot](./images/screenshot1.png, )
+![Myntra Clone footer Screenshot](./images/screenshot1.png )
 
 
 ---
